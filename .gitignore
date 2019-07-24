@@ -1,0 +1,21 @@
+#files
+*.o
+*.pro
+*.user
+*.stash
+
+#folders
+/.vscode
+/images
+
+#executable
+qt-flappy-bird
+
+
+#moc files
+moc_Button.cpp
+moc_FlappyBird.cpp
+moc_Game.cpp
+moc_GameScene.cpp
+moc_Pipe.cpp
+moc_predefs.h
